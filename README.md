@@ -26,6 +26,8 @@ Additionally, the testbench for `clk_gen_template.v` is incomplete
 
 TEST PUSH
 
+TEST PUSH 2 Electric boogaloo
+
 ## Project Description
 Simple digital clock, displays hours, minutes, and seconds in a 24h format. The goal for the project is a simple demonstration of Verilog concepts while 
 producing an interesting final project. The design is broken down into several components that should be filled in by workshop attendees.

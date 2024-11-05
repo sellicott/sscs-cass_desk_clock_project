@@ -24,6 +24,8 @@ Additionally, the testbench for `clk_gen_template.v` is incomplete
 > The [info.yaml](info.yaml) file points to the wrong filename for both of these files, that also
 > needs to be adjusted before all tests complete successfully.
 
+TEST PUSH
+
 ## Project Description
 Simple digital clock, displays hours, minutes, and seconds in a 24h format. The goal for the project is a simple demonstration of Verilog concepts while 
 producing an interesting final project. The design is broken down into several components that should be filled in by workshop attendees.
